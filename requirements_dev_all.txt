@@ -1,0 +1,16 @@
+# Frontend
+hass-frontend
+
+# Discovery services
+aiousbwatcher
+aiodhcpwatcher
+async_upnp_client
+
+# Streaming and media components
+av
+go2rtc_client
+
+# Mobile app
+pynacl
+
+# Add any other missing dependencies you might need
